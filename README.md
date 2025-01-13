@@ -8,10 +8,10 @@
 Why should anyone care about this question?
 
 #### Research Question
-What are you trying to answer?
+Can we accurately predict the likelihood of heart disease in individuals using key health indicators and demographic information?
 
 #### Data Sources
-What data will you use to answer you question?
+The data for this project will be sourced from the Heart Disease Prediction Dataset on Kaggle, which contains clinical data related to cardiovascular health factors.
 
 #### Methodology
 What methods are you using to answer the question?
