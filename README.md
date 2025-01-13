@@ -1,6 +1,6 @@
-### Project Title
+### Capstone Project - Heart Disease Prediction
 
-**Author**
+**Author** - Deepika Makkar
 
 #### Executive summary
 
@@ -30,3 +30,4 @@ What suggestions do you have for next steps?
 
 
 ##### Contact and Further Information
+For inquiries, please contact Amandeep Chawla at makkar.deepika@gmail.com.
