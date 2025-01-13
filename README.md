@@ -30,4 +30,4 @@ What suggestions do you have for next steps?
 
 
 ##### Contact and Further Information
-For inquiries, please contact Amandeep Chawla at makkar.deepika@gmail.com.
+For inquiries, please contact Deepika Makkar at makkar.deepika@gmail.com.
