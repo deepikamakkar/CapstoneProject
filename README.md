@@ -40,7 +40,7 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- [Link to notebook 1]()
+- [[Link to DataOverview](https://github.com/deepikamakkar/ComparingClassifiers/blob/main/notebooks/DataOverview.ipynb)]()
 - [Link to notebook 2]()
 - [Link to notebook 3]()
 
