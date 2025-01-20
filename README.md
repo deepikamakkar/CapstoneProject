@@ -40,8 +40,8 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- [[Link to DataOverview](https://github.com/deepikamakkar/ComparingClassifiers/blob/main/notebooks/DataOverview.ipynb)]()
-- [Link to notebook 2]()
+- [DataOverview Notebook](https://github.com/deepikamakkar/ComparingClassifiers/blob/main/notebooks/DataOverview.ipynb)
+- [DataPreprocessing Notebook]()
 - [Link to notebook 3]()
 
 
