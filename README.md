@@ -41,8 +41,8 @@ What suggestions do you have for next steps?
 #### Outline of project
 
 - [DataOverview Notebook](https://github.com/deepikamakkar/ComparingClassifiers/blob/main/notebooks/DataOverview.ipynb)
-- [DataPreprocessing Notebook]()
-- [Link to notebook 3]()
+- [DataPreprocessing Notebook](https://github.com/deepikamakkar/CapstoneProject/blob/main/notebooks/DataPreProcessing.ipynb)
+- [DataModellingMetrics Notebook]()
 
 
 ##### Contact and Further Information
