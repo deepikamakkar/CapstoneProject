@@ -37,8 +37,14 @@ The data for this project will be sourced from the Heart Disease Prediction Data
 - Ensemble models like Random Forest and Gradient Boosting outperformed others in terms of predictive accuracy and robustness.
 
 #### Next steps
-What suggestions do you have for next steps?
-
+1. Refinement and Validation
+  -  Model Optimization: Continue fine-tuning hyperparameters for the best-performing models (e.g., Gradient Boosting and Random Forest) to maximize predictive accuracy.
+  -  Cross-Validation: Perform k-fold cross-validation to ensure robustness and minimize overfitting.
+  - External Validation: Test the models on external datasets or a subset of the Kaggle dataset reserved solely for validation to evaluate generalizability.
+2. Deployment
+  - Prototype Creation: Develop a web-based or standalone application for clinicians to input patient data and receive a real-time risk prediction.
+  - Integration: Plan for integration with electronic health records (EHR) systems for real-time predictions in clinical settings.
+    
 #### Outline of project
 
 - [DataOverview Notebook](https://github.com/deepikamakkar/ComparingClassifiers/blob/main/notebooks/DataOverview.ipynb)
