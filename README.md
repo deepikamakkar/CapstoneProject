@@ -33,7 +33,8 @@ The data for this project will be sourced from the Heart Disease Prediction Data
 - Assessing models using accuracy, precision, recall, F1-score, and area under the ROC curve (AUC-ROC) to ensure a balanced evaluation.
 
 #### Results
-What did your research find?
+- Certain features, such as cholesterol levels, resting blood pressure, and exercise-induced angina, showed strong correlations with heart disease.
+- Ensemble models like Random Forest and Gradient Boosting outperformed others in terms of predictive accuracy and robustness.
 
 #### Next steps
 What suggestions do you have for next steps?
